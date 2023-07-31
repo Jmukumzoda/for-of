@@ -29,7 +29,7 @@ let arr = [
     
     name: 'Tomatos',
     
-    price: 4.14
+    price: 89.14
     
 },
 
@@ -37,7 +37,7 @@ let arr = [
     
     name: 'Onion',
     
-    price: 2.25
+    price: 87.25
     
 }
 
